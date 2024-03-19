@@ -31,5 +31,3 @@ Please write your code in the file `helloworld.c`.
 2. Compiling and running the Hello World program
 
 Write the command to compile the Hello World program and save it to the file `build.ps1`.
-
-This test will be automatically verified upon submission.
