@@ -1,8 +1,8 @@
 a.out:
-	gcc helloworld.c
+	gcc src/helloworld.c
 
 clean:
-	rm helloworld
+	rm src/helloworld
 
 test: a.out
 	bash test.sh

@@ -1,7 +1,7 @@
 echo "Running tests..."
 echo
 
-output=$(./a.out)
+output=$(./src/a.out)
 expected_output="Hello World!"
 
 if [ $? -eq 0 ] ; then
