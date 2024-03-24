@@ -2,9 +2,9 @@
 
 To complete the task, please read the following articles from the link provided:
 
-1. [Giới thiệu khóa học](https://nguyenvanhieu.vn/lap-trinh-c/bai-1-gioi-thieu-khoa-hoc)
-2. [Cài đặt môi trường lập trình C](https://nguyenvanhieu.vn/lap-trinh-c/bai-2-cai-dat-moi-truong-lap-trinh-c)
-3. [Biên dịch code C sử dụng g++](https://nguyenvanhieu.vn/lap-trinh-c/bai-3-bien-dich-code-c-su-dung-gplusplus)
+1. [Giới thiệu khóa học](https://nguyenvanhieu.vn/lap-trinh-c/)
+2. [Cài đặt môi trường lập trình C](https://nguyenvanhieu.vn/cai-dat-moi-truong-lap-trinh-c/)
+3. [Biên dịch code C sử dụng g++](https://nguyenvanhieu.vn/bien-dich-code-c-su-dung-gcc/)
 
 These articles will provide you with an introduction to the "Học lập trình C bá đạo" course and essential information about setting up the programming environment for C.
 
