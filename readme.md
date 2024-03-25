@@ -63,4 +63,4 @@ For the revision task, please refer to: [revision.md](revision.md).
   - Used to communicate to programs how the machine is set up
   - Can control the behavior of programs
   - Can store sensitive information (passwords,...)
-  - Can be dynamic values that can be accessed even during runtime
+  - Can be dynamic values that can be accessed even during runtime.
