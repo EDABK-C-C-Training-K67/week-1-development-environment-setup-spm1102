@@ -36,13 +36,13 @@ For the revision task, please refer to: [revision.md](revision.md).
 ## 1. **Run code in terminal**
 - **To run code in terminal we use cmd line:**
  gcc /file_name.c/ - o /file_name/
-![Example](image1-1.png)
+![alt text](image1-1.png)
 - **Useful cmd**
-  - **pwd\:** printing directory
+  - **pwd\:** printing directory.
   - **\-o \<file name>\:** place output into file
-  - **cd\:** changing directory
+  - **cd\:** changing directory.
   - **dir\:** listing folder in working directory.
-  - **gcc --help\:** show more gcc functions
+  - **gcc --help\:** show more gcc functions.
 ## 2. **Environment\:** 
 - **Definition\:** the context in which code is being executed—all the variables, objects, functions available to the code. We can think of an environment as a unique machine executing code.
 - **Types\:**
@@ -60,7 +60,7 @@ For the revision task, please refer to: [revision.md](revision.md).
     - **Runtime/ process environment variables\:** values coming into play during execution. For example, it could determine the time of users in a game,...
 - **Function\:**
   - Can set up different configuration options for environments.
-  - Used to communicate to programs how the machine is set up
-  - Can control the behavior of programs
-  - Can store sensitive information (passwords,...)
+  - Used to communicate to programs how the machine is set up.
+  - Can control the behavior of programs.
+  - Can store sensitive information (passwords,...).
   - Can be dynamic values that can be accessed even during runtime.
